@@ -1,7 +1,7 @@
 # AMLDM_SourceCodes
 Applied Machine Learning and Data Mining Coursework
 
-Sources Codes file names<br/>
+File names of sources codes inside the zipped folder, are as follows<br/>
 1)ClassificationAim 1_GenderClassification <br/>
 2)ClassificationAim 2_FetalHealth   <br/>
 3)RegressionAim 1_IceCreamRevenue <br/>
