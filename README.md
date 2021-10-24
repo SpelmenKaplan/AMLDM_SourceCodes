@@ -6,7 +6,7 @@ Task A <br/>
 1)ClassificationAim1_GenderClassification <br/>
 2)ClassificationAim2_FetalHealth   <br/>
 3)RegressionAim1_IceCreamRevenue <br/>
-4)RegressionAim2_CarPrice <br/><br/>
+4)RegressionAim2_CarPrice <br/>
 
 Task B <br/>
 5)ClusterAim1_CategorizeCountries <br/>
